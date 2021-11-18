@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+html,
+
+h2{
+	color: darkblue;
+	text-transform: none;
+	font-size: 10px;
+	lrtter-spacing:0;
+}
+
+p{color: darkslateblue;}
+
+.box1{
+	background-color: lightgreen;
+	}
+.box2{
+	margin:auto;
+	}
+
+.container{
+	width: 80%;
+	margin: auto;
+	}
+
+body{
+	background-color: burlywood;
+	Color:555555;
+	}
